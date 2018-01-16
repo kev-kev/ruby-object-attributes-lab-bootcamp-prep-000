@@ -9,6 +9,7 @@ def name
   @name
 end
 
+
 def breed
   @breed
 end
